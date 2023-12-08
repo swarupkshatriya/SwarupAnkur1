@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module SwarupTest07 {
-}
